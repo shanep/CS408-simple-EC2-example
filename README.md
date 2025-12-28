@@ -7,6 +7,7 @@ deploy to various environments, including AWS EC2 instances.
 ## Quick Start
 
 - Install [Docker](https://docs.docker.com/get-docker/) on your local machine.
+  - Make sure and select WSL 2 backend if using Windows.
 - Configure the project with `./dev.sh new`
 - Start the application with `./dev.sh`
 
