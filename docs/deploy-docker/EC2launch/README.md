@@ -1,8 +1,8 @@
-# Launching your EC2 Instance (ARM64)
+# Launching your EC2 Instance
 
 These instructions are for launching an AWS EC2 instance if you have an Apple
-Silicon based Mac (M1/M2) (arm64 architecture). IF you have an Intel/AMD based
-machine, please follow the [AMD64 instructions](amd64.md).
+Silicon based Mac (M1/M2) (arm64 architecture) or an Intel/AMD based Machine
+(amd64/x86 architecture).
 
 ## Open the Amazon EC2 console.
 
